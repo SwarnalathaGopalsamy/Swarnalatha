@@ -1,5 +1,11 @@
+<html?
+<head>
+  <title>
 # India and Indians
+  </title>
+</head>
 
+<body>
 India is a country located in South Asia, known for its rich culture, history, and diversity. With a population of over 1.3 billion people, India is the world's second-most populous country.
 
 Indians are known for their hospitality, warmth, and friendly nature. They are also known for their love for food, music, dance, and festivals. The country is home to many religions, including Hinduism, Islam, Christianity, and Sikhism.
@@ -25,3 +31,5 @@ India has produced many famous personalities in various fields, including:
 ## Conclusion
 
 India and Indians are an integral part of the world's culture and history. The country's diverse culture, traditions, and famous personalities make it a unique and fascinating place to visit and learn about.
+</body>
+</html>
